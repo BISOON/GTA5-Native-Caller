@@ -5,7 +5,8 @@ This library allows you to call over 2000 native functions
 that can be found here [Nativedb](http://www.dev-c.com/nativedb/)
 
 <p align="center">
-<img alt=".." src="https://gyazo.com/7a465b8a9a6a82f1b276e97526f33953.png"/>
+<img alt=".." src="https://x0.at/vq-.png"/>
+
 </p>
 
 # How to use
